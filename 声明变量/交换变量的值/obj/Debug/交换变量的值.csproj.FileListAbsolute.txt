@@ -1,0 +1,6 @@
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\交换变量的值\bin\Debug\交换变量的值.exe.config
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\交换变量的值\bin\Debug\交换变量的值.exe
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\交换变量的值\bin\Debug\交换变量的值.pdb
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\交换变量的值\obj\Debug\交换变量的值.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\交换变量的值\obj\Debug\交换变量的值.exe
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\交换变量的值\obj\Debug\交换变量的值.pdb

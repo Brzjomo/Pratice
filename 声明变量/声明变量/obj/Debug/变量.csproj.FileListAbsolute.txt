@@ -1,0 +1,6 @@
+c:\users\jomo\documents\visual studio 2017\Projects\声明变量\声明变量\bin\Debug\声明变量.exe.config
+c:\users\jomo\documents\visual studio 2017\Projects\声明变量\声明变量\bin\Debug\声明变量.exe
+c:\users\jomo\documents\visual studio 2017\Projects\声明变量\声明变量\bin\Debug\声明变量.pdb
+c:\users\jomo\documents\visual studio 2017\Projects\声明变量\声明变量\obj\Debug\变量.csprojResolveAssemblyReference.cache
+c:\users\jomo\documents\visual studio 2017\Projects\声明变量\声明变量\obj\Debug\声明变量.exe
+c:\users\jomo\documents\visual studio 2017\Projects\声明变量\声明变量\obj\Debug\声明变量.pdb

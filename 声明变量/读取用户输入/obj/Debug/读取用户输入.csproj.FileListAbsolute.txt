@@ -1,0 +1,6 @@
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\读取用户输入\obj\Debug\读取用户输入.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\读取用户输入\bin\Debug\读取用户输入.exe.config
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\读取用户输入\bin\Debug\读取用户输入.exe
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\读取用户输入\bin\Debug\读取用户输入.pdb
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\读取用户输入\obj\Debug\读取用户输入.exe
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\读取用户输入\obj\Debug\读取用户输入.pdb

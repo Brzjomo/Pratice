@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "变量", "声明变量\变量.csproj", "{6C2DE543-2657-4814-BBC8-E822135A915A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "加号应用实例", "加号应用实例\加号应用实例.csproj", "{8F45D2EC-A2C7-40AC-B354-0E40D28CE248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "交换变量的值", "交换变量的值\交换变量的值.csproj", "{C7540645-3F0C-4723-B379-187D4893FFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取用户输入", "读取用户输入\读取用户输入.csproj", "{8E127037-4B9A-43DF-BCEE-D98A7E65C906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2DE543-2657-4814-BBC8-E822135A915A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2DE543-2657-4814-BBC8-E822135A915A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2DE543-2657-4814-BBC8-E822135A915A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2DE543-2657-4814-BBC8-E822135A915A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F45D2EC-A2C7-40AC-B354-0E40D28CE248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F45D2EC-A2C7-40AC-B354-0E40D28CE248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F45D2EC-A2C7-40AC-B354-0E40D28CE248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F45D2EC-A2C7-40AC-B354-0E40D28CE248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7540645-3F0C-4723-B379-187D4893FFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7540645-3F0C-4723-B379-187D4893FFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7540645-3F0C-4723-B379-187D4893FFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7540645-3F0C-4723-B379-187D4893FFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

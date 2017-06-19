@@ -1,0 +1,6 @@
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\加号应用实例\obj\Debug\加号应用实例.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\加号应用实例\bin\Debug\加号应用实例.exe.config
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\加号应用实例\bin\Debug\加号应用实例.exe
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\加号应用实例\bin\Debug\加号应用实例.pdb
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\加号应用实例\obj\Debug\加号应用实例.exe
+C:\Users\Jomo\documents\visual studio 2017\Projects\声明变量\加号应用实例\obj\Debug\加号应用实例.pdb
