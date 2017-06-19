@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "交换变量的值", "交�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取用户输入", "读取用户输入\读取用户输入.csproj", "{8E127037-4B9A-43DF-BCEE-D98A7E65C906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "转义字符", "转义字符\转义字符.csproj", "{7A94D163-0491-4337-B12A-4032255E8EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E127037-4B9A-43DF-BCEE-D98A7E65C906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A94D163-0491-4337-B12A-4032255E8EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A94D163-0491-4337-B12A-4032255E8EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A94D163-0491-4337-B12A-4032255E8EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A94D163-0491-4337-B12A-4032255E8EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

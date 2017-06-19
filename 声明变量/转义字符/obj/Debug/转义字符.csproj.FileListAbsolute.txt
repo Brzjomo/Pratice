@@ -1,0 +1,6 @@
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\转义字符\bin\Debug\转义字符.exe.config
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\转义字符\bin\Debug\转义字符.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\转义字符\bin\Debug\转义字符.pdb
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\转义字符\obj\Debug\转义字符.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\转义字符\obj\Debug\转义字符.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\转义字符\obj\Debug\转义字符.pdb
