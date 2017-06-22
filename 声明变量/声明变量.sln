@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "转义字符", "转义字�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "算数运算符", "算数运算符\算数运算符.csproj", "{CB981737-F0F6-4660-991A-B55778659738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "关系运算符", "关系运算符\关系运算符.csproj", "{E7916468-2E68-4EEC-B9C4-F713D9A40558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "逻辑运算符", "逻辑运算符\逻辑运算符.csproj", "{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{CB981737-F0F6-4660-991A-B55778659738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB981737-F0F6-4660-991A-B55778659738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB981737-F0F6-4660-991A-B55778659738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7916468-2E68-4EEC-B9C4-F713D9A40558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7916468-2E68-4EEC-B9C4-F713D9A40558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7916468-2E68-4EEC-B9C4-F713D9A40558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7916468-2E68-4EEC-B9C4-F713D9A40558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

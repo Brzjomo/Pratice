@@ -223,7 +223,38 @@ namespace 算数运算符
 
             Console.WriteLine("{0},{1}",p2,p3);
 
+            Console.ReadKey();
+
+            //复合运算符：+=，-=，*=，/=，%=
+
+            int n1 = 3;
+
+            n1 += 5;//结果为8，等价于'n1=n1+5'
+
+            Console.WriteLine(n1);
+
+            n1 -= 6;//结果为2，等价于'n1=n1-6'
+
+            Console.WriteLine(n1);
+
+            n1 *= 4;//结果为8，等价于'n1=n1*4'
+
+            Console.WriteLine(n1);
+
+            n1 /= 2;//结果为4，等价于'n1=n1/2'
+
+            Console.WriteLine(n1);
+
+            n1 %= 3;//结果为1，等价于'n1=n1%3'
+
+            Console.WriteLine(n1);
+
             Console.ReadKey(); 
+
+            //由一种运算符构成的运算符，比如‘++’，叫作一元运算符
+            //由两种运算符构成的运算符，比如‘+=’，叫作二元运算符 
+
+            //一元运算符的优先级高于二元运算符 
 
         }
     }

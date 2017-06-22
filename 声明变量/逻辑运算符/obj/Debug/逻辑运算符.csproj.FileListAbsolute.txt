@@ -1,0 +1,6 @@
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\逻辑运算符\bin\Debug\逻辑运算符.exe.config
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\逻辑运算符\bin\Debug\逻辑运算符.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\逻辑运算符\bin\Debug\逻辑运算符.pdb
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\逻辑运算符\obj\Debug\逻辑运算符.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\逻辑运算符\obj\Debug\逻辑运算符.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\逻辑运算符\obj\Debug\逻辑运算符.pdb
