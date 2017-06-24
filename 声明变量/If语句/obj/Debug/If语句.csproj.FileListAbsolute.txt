@@ -1,0 +1,6 @@
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\If语句\bin\Debug\If语句.exe.config
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\If语句\bin\Debug\If语句.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\If语句\bin\Debug\If语句.pdb
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\If语句\obj\Debug\If语句.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\If语句\obj\Debug\If语句.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\If语句\obj\Debug\If语句.pdb

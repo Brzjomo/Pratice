@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "关系运算符", "关系�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "逻辑运算符", "逻辑运算符\逻辑运算符.csproj", "{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If语句", "If语句\If语句.csproj", "{FF8FAA56-36C1-4EAE-91DD-CBC65C28CEEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9F78ECC-7C67-4D99-8C04-19C0F52BFEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8FAA56-36C1-4EAE-91DD-CBC65C28CEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8FAA56-36C1-4EAE-91DD-CBC65C28CEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8FAA56-36C1-4EAE-91DD-CBC65C28CEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8FAA56-36C1-4EAE-91DD-CBC65C28CEEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
