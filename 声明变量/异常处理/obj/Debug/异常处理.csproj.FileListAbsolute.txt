@@ -1,0 +1,6 @@
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\异常处理\bin\Debug\异常处理.exe.config
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\异常处理\bin\Debug\异常处理.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\异常处理\bin\Debug\异常处理.pdb
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\异常处理\obj\Debug\异常处理.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\异常处理\obj\Debug\异常处理.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\异常处理\obj\Debug\异常处理.pdb

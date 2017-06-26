@@ -52,7 +52,7 @@ namespace If语句
 
             Console.ReadKey();
 
-            //用户输入用户名“Admin”和密码“asdj1234”后提示登陆成功
+            //练习3：用户输入用户名“Admin”和密码“asdj1234”后提示登陆成功
 
             Console.WriteLine("请输入用户名：");
 
