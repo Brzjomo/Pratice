@@ -1,0 +1,6 @@
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\Switch-case\bin\Debug\Switch-case.exe.config
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\Switch-case\bin\Debug\Switch-case.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\Switch-case\bin\Debug\Switch-case.pdb
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\Switch-case\obj\Debug\Switch-case.csprojResolveAssemblyReference.cache
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\Switch-case\obj\Debug\Switch-case.exe
+C:\Users\Jomo\Documents\GitHub\Pratice\声明变量\Switch-case\obj\Debug\Switch-case.pdb
